@@ -1,0 +1,2 @@
+# Student-Management-System-implemented-in-Java-and-MySQL
+This is a source code for a comprehensive Student Management System developed using Java and MySQL. The application provides functionalities for managing student records, including adding, viewing, updating, and deleting student information. The system is designed to demonstrate fundamental concepts of database integration in Java applications. 
